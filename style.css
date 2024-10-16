@@ -11,7 +11,7 @@ a{
 }
 
 body{
-    width: 1600px; 
+    width: auto; 
     background-color: #232830;
 
     display: flex;
@@ -20,7 +20,7 @@ body{
 }
 
 .box{
-    width: 1600px; 
+    width: auto; 
     background-color: #232830;
 
     display: flex;
@@ -102,7 +102,7 @@ header{
 
         margin-top: 99px;
         
-        width: 1600px;
+        width: auto;
         border-top: #909090 0.5px groove;
     }
     
@@ -231,7 +231,7 @@ header{
         }
 
 footer{
-    width: 1600px;
+    width: auto;
     display: flex;
     justify-content: center;
     align-items: center;
